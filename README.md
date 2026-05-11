@@ -6,8 +6,9 @@
 - Programming: Python
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express
-- Database: MongoDB
-- Tools: Git, GitHub, Netlify, Streamlit, NLP
+- Database: MongoDB, MongoDB atlas
+- Tools: Git, GitHub, Netlify, Streamlit, NLP, JWT auth
+- AI & ML: LLM integration, RAG, LLM API's
 
 ## 📌 Featured Projects
 - Smart Expense Tracker (MERN)
