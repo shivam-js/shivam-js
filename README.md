@@ -1,129 +1,193 @@
 # Hi, I'm Shivam Prasad 👋
 
-🚀 Full Stack Developer | MERN Stack | AI-Powered Applications | Problem Solver
+### Software Engineer | Full Stack Developer | AI Systems Builder
 
-I build scalable full-stack applications with modern web technologies and practical AI integrations. Passionate about creating real-world solutions using React, Node.js, MongoDB, AI workflows, and production deployment architectures.
+Final-year Computer Science student passionate about building production-grade software and AI-powered applications.
+
+I specialize in designing and developing scalable full-stack systems using the MERN stack while integrating modern AI technologies such as LLMs, RAG pipelines, LangChain, LangGraph, and intelligent automation workflows.
+
+Over the past few years, I've focused on solving real-world problems through software — from AI-powered recruitment platforms and misinformation detection systems to multi-agent healthcare automation solutions.
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 What I Build
 
-### 💻 Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Responsive UI Design
+* Full Stack Web Applications
+* AI-Powered Software Products
+* Retrieval-Augmented Generation (RAG) Systems
+* Multi-Agent AI Workflows
+* REST API Architectures
+* Authentication & Authorization Systems
+* Cloud-Deployed Production Applications
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+---
 
-### 🗄️ Database
-- MongoDB
-- Mongoose
+## 🛠️ Tech Stack
 
-### 🤖 AI & Intelligent Systems
-- LLM Integration
-- RAG-Based Workflows
-- NLP Applications
-- OCR Text Extraction
-- AI Verification Pipelines
+### Languages
 
-### ☁️ Deployment & Tools
-- Git & GitHub
-- Netlify
-- Railway
-- MongoDB Atlas
-- VS Code
-- Postman
+* Python
+* JavaScript (ES6+)
+* C
+
+### Frontend
+
+* React.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* GSAP
+* Framer Motion
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Microservices
+
+### Databases
+
+* MongoDB
+* MySQL
+* SQL
+
+### AI & Intelligent Systems
+
+* LLM Applications
+* LangChain
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI
+* NLP
+* Prompt Engineering
+* Groq API Integration
+
+### Tools & Platforms
+
+* Git & GitHub
+* Docker
+* Postman
+* Railway
+* Render
+* Netlify
+* Vercel
+* MongoDB Atlas
+* VS Code
+* Figma
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡️ TruthLens-AI
-AI-powered misinformation detection platform that analyzes text, screenshots, images, PDFs, and DOCX files using AI verification workflows, OCR extraction, credibility scoring, and source-based fact analysis.
+## HireProof-AI
 
-### 🔹 Highlights
-- AI-based fake news detection
-- OCR-powered screenshot analysis
-- PDF & DOCX verification system
-- Full-stack deployment using Railway + Netlify
-- MongoDB-based persistent analysis history
-- Real-world API architecture & production debugging
+AI-powered recruitment intelligence platform designed to streamline candidate screening and hiring workflows.
 
-### 🔗 Live Demo
-https://truthlenss-ai.netlify.app
+### Key Features
 
-### 🔗 GitHub Repository
-https://github.com/shivam-js/TruthLens-AI
+* Resume Intelligence Engine
+* LLM-Powered Candidate Analysis
+* Recruiter Dashboard
+* JWT Authentication
+* Candidate Management System
+* Protected Routes & Persistent Sessions
+* MERN Stack Architecture
 
----------------------------------------------------------------------------------------------------------------------------
-
-## 💰 Smart Expense Tracker
-Production-ready MERN expense management platform with authentication, advanced UI components, responsive dashboards, category tracking, search/filter systems, and real-time expense monitoring.
-
-### 🔹 Highlights
-- JWT Authentication
-- MongoDB integration
-- Advanced dashboard UI
-- Responsive design architecture
-- Expense categorization & tracking
+**Tech Stack:** React, Node.js, Express, MongoDB, LangChain, JWT
 
 ---
 
-### 🔗 Live Demo
-https://smart-expense-trackee.netlify.app/
+## TruthLens-AI
 
-### 🔗 GitHub Repository
-https://github.com/shivam-js/smart-expense-tracker
+Real-time misinformation detection and fact-verification platform powered by Retrieval-Augmented Generation (RAG).
 
--------------------------------------------------------------------------------------------------------------------------
+### Key Features
 
-## 🎤 MockMate-AI
-AI-powered mock interview preparation platform with resume-based interview generation, NLP-driven evaluation, and intelligent feedback workflows.
+* AI Fact Verification
+* Source-Based Evidence Retrieval
+* News Aggregation Pipeline
+* Credibility Scoring
+* Explainable AI Reports
+* Hallucination-Resistant Verification Workflow
 
-### 🔹 Highlights
-- NLP-based interview generation
-- AI feedback analysis
-- Resume-driven question generation
-- Streamlit-powered AI interface
+**Tech Stack:** React, Node.js, MongoDB, Groq, RAG, News APIs
 
-### 🔗 Live Demo
-https://github.com/shivam-js/MockMate-AI
-
-### 🔗 GitHub Repository
-https://mockmate-ai-3xjowtbsbxtqerxuqilw8w.streamlit.app/
-
------------------------------------------------------------------------------------------------------------
-
-## 🌐 Portfolio Website
-Modern responsive developer portfolio showcasing projects, skills, and deployment-ready frontend architecture.
-
-### 🔗 Portfolio
-https://shivam-prasad-portfolio.netlify.app
+🔗 Repository: https://github.com/shivam-js/TruthLens-AI
 
 ---
 
-# 📈 What I Focus On
+## Discharge Summary Agent
 
-- Full Stack Web Development
-- AI Integration in Real Applications
-- Scalable MERN Stack Architecture
-- REST API Development
-- Production Deployment & Debugging
-- Building Recruiter-Ready Projects
+Multi-Agent Healthcare AI system that transforms raw patient discharge records into structured clinical summaries.
+
+### Key Features
+
+* LangGraph Multi-Agent Workflow
+* Information Extraction
+* Medication Reconciliation
+* Conflict Detection
+* Safety Validation
+* Feedback-Driven Correction Loops
+* Clinical RAG Pipeline
+
+**Tech Stack:** Python, LangChain, LangGraph, RAG, Groq
 
 ---
 
-# 📫 Contact
+## Smart Expense Tracker
 
-- GitHub: https://github.com/shivam-js
-- Portfolio: https://shivam-prasad-portfolio.netlify.app
+Production-ready personal finance management platform built using the MERN stack.
+
+### Key Features
+
+* JWT Authentication
+* Expense Tracking
+* Budget Management
+* REST API Architecture
+* Analytics Dashboard
+* Responsive UI
+* Cloud Deployment
+
+**Tech Stack:** React, Node.js, Express, MongoDB
+
+🔗 Repository: https://github.com/shivam-js/smart-expense-tracker
 
 ---
+
+# 📈 Engineering Interests
+
+* Software Engineering
+* Full Stack Development
+* AI Engineering
+* Agentic AI Systems
+* RAG Architectures
+* Backend Engineering
+* System Design
+* Developer Productivity Tools
+
+---
+
+# 🎯 Current Focus
+
+* Building AI-powered SaaS products
+* Deepening expertise in Agentic AI
+* Backend Engineering & Distributed Systems
+* Production-Ready Full Stack Architectures
+* Open to Full Stack and AI Engineering opportunities
+
+---
+
+# 📫 Connect With Me
+
+* GitHub: https://github.com/shivam-js
+* Portfolio: https://me-shivam-thisside.vercel.app/
+* LinkedIn: https://www.linkedin.com/in/shivamprasad2026
+
+---
+
+> "Building software that solves real problems — combining engineering fundamentals with practical AI."
+
 
 ⭐ Always building, learning, and improving through real-world development.
