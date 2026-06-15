@@ -97,6 +97,10 @@ AI-powered recruitment intelligence platform designed to streamline candidate sc
 
 **Tech Stack:** React, Node.js, Express, MongoDB, LangChain, JWT
 
+🔗 Live: https://hireproof-ai.netlify.app/
+
+🔗 Repository: https://github.com/shivam-js/HireProof-AI
+
 ---
 
 ## TruthLens-AI
@@ -113,6 +117,8 @@ Real-time misinformation detection and fact-verification platform powered by Ret
 * Hallucination-Resistant Verification Workflow
 
 **Tech Stack:** React, Node.js, MongoDB, Groq, RAG, News APIs
+
+🔗 Live: https://truthlenss-ai.netlify.app/
 
 🔗 Repository: https://github.com/shivam-js/TruthLens-AI
 
@@ -134,6 +140,8 @@ Multi-Agent Healthcare AI system that transforms raw patient discharge records i
 
 **Tech Stack:** Python, LangChain, LangGraph, RAG, Groq
 
+🔗 Repository: https://github.com/shivam-js/Discharge-Summary-Agent
+
 ---
 
 ## Smart Expense Tracker
@@ -152,7 +160,9 @@ Production-ready personal finance management platform built using the MERN stack
 
 **Tech Stack:** React, Node.js, Express, MongoDB
 
-🔗 Repository: https://github.com/shivam-js/smart-expense-tracker
+🔗 Live: https://smart-expense-trackee.netlify.app/
+
+🔗 Repository: https://github.com/shivam-js/Smart-Expense-Tracker
 
 ---
 
